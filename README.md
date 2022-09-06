@@ -1,2 +1,0 @@
-# Software-Design
-INT4067CEM SOFTWARE DESIGN
